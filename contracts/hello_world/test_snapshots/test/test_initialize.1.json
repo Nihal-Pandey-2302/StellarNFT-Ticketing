@@ -1,0 +1,53 @@
+{
+  "generators": {
+    "address": 0,
+    "nonce": 0
+  },
+  "auth": [],
+  "ledger": {
+    "protocol_version": 20,
+    "sequence_number": 0,
+    "timestamp": 0,
+    "network_id": "0000000000000000000000000000000000000000000000000000000000000000",
+    "base_reserve": 0,
+    "min_persistent_entry_ttl": 4096,
+    "min_temp_entry_ttl": 16,
+    "max_entry_ttl": 6312000,
+    "ledger_entries": []
+  },
+  "events": [
+    {
+      "event": {
+        "ext": "v0",
+        "contract_id": null,
+        "type_": "diagnostic",
+        "body": {
+          "v0": {
+            "topics": [
+              {
+                "symbol": "log"
+              }
+            ],
+            "data": {
+              "vec": [
+                {
+                  "string": "Initializing contract with admin: {}, name: {}, symbol: {}:"
+                },
+                {
+                  "address": "GCC267YZPB4KLA264X5LXFXLAAUC3LBY2K72OJEIXKLLJ5UO764G2WX3"
+                },
+                {
+                  "string": "WCNFTMatch"
+                },
+                {
+                  "symbol": "WC"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "failed_call": false
+    }
+  ]
+}
