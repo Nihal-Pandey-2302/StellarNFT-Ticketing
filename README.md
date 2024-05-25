@@ -76,6 +76,6 @@ Contributions are welcome! To contribute to the Stellar Ticketing System:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ### Acknowledgement
--Thank you to the Stellar Development Foundation for their resources and support.
--Thank you to RiseIn team for this opportunity and their support.
+-Thank you to the Stellar Development Foundation for their resources and support.<br>
+-Thank you to RiseIn team for this opportunity and their support.<br>
 -Special thanks to Abhinaw Kumar Sir for mentoring and support in this project.
