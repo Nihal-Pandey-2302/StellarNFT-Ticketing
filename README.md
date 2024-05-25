@@ -1,3 +1,6 @@
+<img src="https://github.com/Nihal-Pandey-2302/Token-Creation-and-Management/blob/master/Design.png" alt="Image Description" width="200">
+
+
 # NFT Ticketing System
 ## Project Description
 
